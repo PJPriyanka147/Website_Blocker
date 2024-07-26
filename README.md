@@ -47,18 +47,5 @@
 - During the specified hours, it writes entries to the system’s hosts file, redirecting the websites to 127.0.0.1 (localhost).
 - After the blocking period, the script removes these entries, restoring normal access.
 
-## Important Notes ⚠️
-- **Administrator/Root Privileges:** Modifying the hosts file requires administrator or root privileges. Ensure you run the script with the necessary permissions.
-- **Hosts File Path:**
-   - **Windows:** C:\Windows\System32\drivers\etc\hosts
-   - **macOS/Linux:** /etc/hosts
-- **Usage Responsibility:** This tool is meant to aid productivity. Use responsibly and be aware of any potential impacts on your network settings.
-
-## Contact 📧
-For any questions or suggestions, please open an issue on [GitHub](https://github.com/PJPriyanka147/Website_Blocker) or contact me via [GitHub profile](https://github.com/PJPriyanka147).
-
-
-
-
 
 
