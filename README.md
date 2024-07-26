@@ -18,7 +18,7 @@
    ```bash
    git clone https://github.com/yourusername/Website_Blocker.git
    cd Website_Blocker
-## Usage 🚀
+## Usage 
 
 1. **Edit the `websites.txt` File**
    - List the URLs of the websites you want to block, one per line.
